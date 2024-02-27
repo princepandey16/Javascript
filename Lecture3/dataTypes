@@ -1,0 +1,15 @@
+"use strict";
+
+//alert(3+3) we are using not browser so it gives error
+
+let Name1 = "Prince"
+let age = 19
+console.log(Name1)
+console.log(age)
+
+console.log(typeof age)
+// data types in js
+// *number *string  *Boolean  *null ==>standalone value  *undefined *symbol==> unique *object
+
+console.log(typeof null)
+console.log(typeof undefined)
